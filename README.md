@@ -1,4 +1,4 @@
-# HowardsEnrollmentResquestWebApi
+# Howards Enrollmen tResquest Web Api
 ASP.NET Core Web Api with Swagger UI for testing and documentation
 
 The Swagger UI is ideal for testing this solution. You will find GET,POST,PUT,DELETE methods well documented and ready to try them out. After, you follow the steps below, you will be able to create, edit, remove and fetch data with this web api.
